@@ -82,7 +82,7 @@ html::-webkit-scrollbar
 {
     width: 100%;
     min-height: 90vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.40)),url(images/Free\ Vector\ _\ Realistic\ coffee\ background.jpg) ;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.40)),url(/images/Free\ Vector\ _\ Realistic\ coffee\ background.jpg) ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
